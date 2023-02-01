@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matth\\OneDrive\\Desktop\\Coding\\Tournament-Ping\\back-end\\Pinger\\Pinger.csproj": {}
+    "C:\\Users\\Matth\\OneDrive\\Documents\\GitHub\\Tournament-Ping\\back-end\\pinger\\Pinger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matth\\OneDrive\\Desktop\\Coding\\Tournament-Ping\\back-end\\Pinger\\Pinger.csproj": {
+    "C:\\Users\\Matth\\OneDrive\\Documents\\GitHub\\Tournament-Ping\\back-end\\pinger\\Pinger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matth\\OneDrive\\Desktop\\Coding\\Tournament-Ping\\back-end\\Pinger\\Pinger.csproj",
+        "projectUniqueName": "C:\\Users\\Matth\\OneDrive\\Documents\\GitHub\\Tournament-Ping\\back-end\\pinger\\Pinger.csproj",
         "projectName": "Pinger",
-        "projectPath": "C:\\Users\\Matth\\OneDrive\\Desktop\\Coding\\Tournament-Ping\\back-end\\Pinger\\Pinger.csproj",
+        "projectPath": "C:\\Users\\Matth\\OneDrive\\Documents\\GitHub\\Tournament-Ping\\back-end\\pinger\\Pinger.csproj",
         "packagesPath": "C:\\Users\\Matth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matth\\OneDrive\\Desktop\\Coding\\Tournament-Ping\\back-end\\Pinger\\obj\\",
+        "outputPath": "C:\\Users\\Matth\\OneDrive\\Documents\\GitHub\\Tournament-Ping\\back-end\\pinger\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
